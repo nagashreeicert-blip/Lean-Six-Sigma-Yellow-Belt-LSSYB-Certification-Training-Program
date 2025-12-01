@@ -46,5 +46,5 @@ The LSSYB exam tests foundational knowledge in Lean Six Sigma concepts, DMAIC me
 ## 🔗 References
 
 - [LSSYB Certification Course](https://www.icertglobal.com/quality-management/lean-six-sigma-yellow-belt)  
-- [iCert Global Homepage](https://www.icertglobal.com/)  
+- [iCert Global ](https://www.icertglobal.com/)  
 
