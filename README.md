@@ -88,9 +88,9 @@ The real benefit is **becoming an engaged team member**, recognized for your con
 
 ## 🔗 References & Useful Links
 
-- LSSYB Certification → [iCert Global](https://www.icertglobal.com/blog.php?title=six-sigma-yellow-belt)  
-- iCert Global Homepage → [iCert Global](https://www.icertglobal.com)  
-- LSSYB Tips Blog → [Six Sigma Yellow Belt Exam Tips](https://www.icertglobal.com/blog/pass-the-six-sigma-yellow-belt-exam-top-ssyb-tips-2025)  
+- LSSYB Certification → [iCert Global](https://www.icertglobal.com/quality-management/lean-six-sigma-yellow-belt)  
+- iCert Global Homepage → [iCert Global](https://www.icertglobal.com/)  
+
 
 ---
 
